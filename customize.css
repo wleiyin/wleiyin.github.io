@@ -1,8 +1,10 @@
 /* Totally nothing in here... */
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@400;600;700&display=swap');
+
 body {
     background-color: #1a1a1a; 
     color: #ffffff;           
-    font-family: Arial, sans-serif;
+    font-family: Raleway, sans-serif;
     max-width: 600px;
     margin: 40px auto;       
     padding: 20px;
@@ -11,6 +13,7 @@ body {
 
 h1 {
     color: #4da6ff;          
+    font-weight: 700;
     border-bottom: 2px solid #333;
     padding-bottom: 10px;
 }
