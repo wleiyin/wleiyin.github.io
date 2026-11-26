@@ -8,6 +8,7 @@ body {
     margin: 40px auto;       
     padding: 20px;
     line-height: 1.6;
+    text-align: center;
 }
 h1 {
     color: black;          
@@ -18,3 +19,7 @@ h1 {
 p {
     font-size: 18px;
 }
+ul {
+    font size: 18px;
+}
+    
